@@ -1,0 +1,19 @@
+{
+  "name": "bitprice",
+  "version": "1.0.0",
+  "description": "App to fetch Bitcoin price from API in NextJS",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "Habeeb Okunade",
+  "license": "ISC",
+  "dependencies": {
+    "isomorphic-unfetch": "^3.1.0",
+    "next": "^9.5.3",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
